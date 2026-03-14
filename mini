@@ -1,0 +1,3 @@
+def admin():
+    print("Hello world")
+    print("You are gay")
